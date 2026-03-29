@@ -31,3 +31,9 @@ print("Fiyati=", klavye_fiyat)
 print("Ürün adi=",laptop)
 print("Fiyati", laptop_fiyat)
 
+toplam_ucret=laptop_fiyat+mouse_fiyat+klavye_fiyat
+
+print("Toplam ödenen ücret=",toplam_ucret)
+
+
+
