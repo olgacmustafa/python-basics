@@ -1,4 +1,5 @@
 print("Mağazamıza Hoşgeldiniz!")
+
 isim=input("İsminizi giriniz: ")
 soyIsim=input("Soyisminizi giriniz: ")
 telefon=input("Telefon numaranızı giriniz: ")
