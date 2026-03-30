@@ -1,1 +1,1 @@
-print("python ogreniyorum")
+print("python ogreniyorum repoma hos gedldiniz")
