@@ -11,6 +11,7 @@ yas = 40
 # msj = "My name {a} {s}. I'm {y} years old.".format(a=ad, s=soyad, y=yas)
 
 # f-string
+
 msj = f"My name {ad} {soyad}. I'm {yas} years old."
 
 print(msj)
