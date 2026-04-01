@@ -5,7 +5,10 @@ parola= "12345"
 sonuc = (a == b)
 sonuc = (a != b)
 
-sonuc = (eposta == input("eposta: "))
-sonuc = (parola== input("parola: "))
+# sonuc = (eposta == input("eposta: "))
+# sonuc = (parola== input("parola: "))
+
+sonuc = (a > b)
+sonuc = (a >= b)
 
 print(sonuc)
